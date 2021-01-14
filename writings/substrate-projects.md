@@ -80,7 +80,7 @@ that. That is the end goal.
 - [IoT](#iot)
 - [Wallets](#wallets)
 - [Social](#social)
-- [Real State](#real-state)
+- [Real Estate](#real-estate)
 - [Scaling](#scaling)
 - [Government](#government)
 - [Energy](#energy)
